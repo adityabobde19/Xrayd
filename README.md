@@ -6,7 +6,7 @@
 
 ## Installation
 
-Install the required libraries from requirements.txt
+Use Python 3.11 or newer, then install the required libraries from requirements.txt
 
 ```bash
 pip install -r requirements.txt
